@@ -1,1 +1,10 @@
 # CONNECT-Sindh
+
+
+
+
+
+Contributors:
+MUTAHIR BIN ATHER 
+MUHAMMAD ASHAD
+MUHAMMAD ZAID
