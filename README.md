@@ -23,8 +23,8 @@ Welcome to the **AI Travel Planner** — a smart solution designed to revolution
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (with Bootstrap or Tailwind)
-- **Backend:** Python / Node.js / PHP *(whichever you're using)*
+- **Frontend:** Streamlit
+- **Backend:** Python
 - **APIs Used:** Gemini API, Google Maps API and Google oAuth
 
 ## 📸 Screenshots
