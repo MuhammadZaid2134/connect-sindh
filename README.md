@@ -2,6 +2,12 @@
 
 Welcome to the **AI Travel Planner** — a smart solution designed to revolutionize how travelers plan their journeys. Powered by artificial intelligence, our system creates efficient, personalized travel itineraries based on user preferences, budget, and real-time data.
 
+
+## 🔗 View Project Live
+
+👉 [Click here to explore the AI Travel Planner](https://connect-sindh.streamlit.app/)
+
+
 ## 🚀 Project Overview
 
 **AI Travel Planner** is an intelligent assistant that helps tourists discover destinations, plan trips, and manage their travel with ease. Whether you're an adventurer, a cultural explorer, or someone looking for a peaceful getaway — this tool adapts to your needs.
